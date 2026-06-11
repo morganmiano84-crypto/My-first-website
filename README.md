@@ -1,4 +1,4 @@
-index.html# My-first-website
+ My-first-website
 Learning coding
 <!DOCTYPE html><html lang="en">
 <head>
@@ -51,7 +51,7 @@ Learning coding
 <body>
   <div class="card">
   <h1>Welcome to My First Website 🌱</h1>  <p>
-    Hi, my name is Rhoda. I am learning coding step by step and building my own path.
+    Hi, my name is Morgan. I am beginning a journey to improve myself.Get ready to see me working towards my goals.
   </p>  <h2>My Inspirations</h2>
   <ul>
     <li>Discipline</li>
@@ -64,11 +64,8 @@ Learning coding
   <p>
     I want to grow in academics, coding, and confidence — in my own way.
   </p>
-  <button onclick="showMessage()">Click Me</button>
-  <p id="message"></p>  <script>
-    function showMessage() {
-      document.getElementById('message').innerText = "You just interacted with your first website, Rhoda 🌱";
-    }
-  </script>  </div>
+  <button onclick="showMessage()">Click Me</button
+      
+ </div>
 </body>
 </html>
