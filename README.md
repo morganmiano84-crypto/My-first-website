@@ -1,6 +1,5 @@
- My-first-website
-Learning coding
-<!DOCTYPE html><html lang="en">
+
+<!DOCTYPE html>
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -59,12 +58,11 @@ Learning coding
     <li>Curiosity</li>
   </ul>  <h2>Link I Built</h2>
   <p>
-    <a href="https://www.instagram.com/vib.escake">Visit vib.escake</a>
+    <a href="https://www.instagram.com/thee_captainmorgan">Visit vib.escake</a>
   </p>  <h2>My Goals</h2>
   <p>
     I want to grow in academics, coding, and confidence — in my own way.
   </p>
-  <button onclick="showMessage()">Click Me</button
       
  </div>
 </body>
